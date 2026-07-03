@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="840" viewBox="0 0 420 840" role="img" aria-label="Mobile dashboard screenshot placeholder">
+  <rect width="420" height="840" fill="#0a0e1a" />
+  <rect x="20" y="20" width="380" height="70" rx="10" fill="#1a1f35" />
+  <rect x="20" y="110" width="380" height="140" rx="10" fill="#1a1f35" />
+  <rect x="20" y="270" width="380" height="200" rx="10" fill="#1a1f35" />
+  <rect x="20" y="490" width="380" height="200" rx="10" fill="#1a1f35" />
+  <text x="30" y="60" font-family="Arial, sans-serif" font-size="18" fill="#f1f5f9">DataPulse - Mobile</text>
+  <text x="30" y="190" font-family="Arial, sans-serif" font-size="12" fill="#94a3b8">Summary cards + filters</text>
+  <text x="30" y="320" font-family="Arial, sans-serif" font-size="12" fill="#94a3b8">Charts stack</text>
+</svg>

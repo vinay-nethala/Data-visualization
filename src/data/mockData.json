@@ -1,0 +1,1202 @@
+[
+    {
+        "id": "1",
+        "date": "2023-01-05",
+        "category": "Electronics",
+        "product": "Laptop Pro X",
+        "value": 1299,
+        "units": 15,
+        "region": "North",
+        "satisfaction": 4.5
+    },
+    {
+        "id": "2",
+        "date": "2023-01-12",
+        "category": "Books",
+        "product": "JS Mastery Guide",
+        "value": 45,
+        "units": 120,
+        "region": "South",
+        "satisfaction": 4.8
+    },
+    {
+        "id": "3",
+        "date": "2023-01-18",
+        "category": "Electronics",
+        "product": "Wireless Earbuds",
+        "value": 89,
+        "units": 85,
+        "region": "East",
+        "satisfaction": 4.2
+    },
+    {
+        "id": "4",
+        "date": "2023-01-25",
+        "category": "Clothing",
+        "product": "Winter Jacket",
+        "value": 150,
+        "units": 42,
+        "region": "West",
+        "satisfaction": 4.0
+    },
+    {
+        "id": "5",
+        "date": "2023-02-02",
+        "category": "Food",
+        "product": "Organic Coffee Beans",
+        "value": 28,
+        "units": 200,
+        "region": "North",
+        "satisfaction": 4.7
+    },
+    {
+        "id": "6",
+        "date": "2023-02-08",
+        "category": "Sports",
+        "product": "Yoga Mat Premium",
+        "value": 65,
+        "units": 55,
+        "region": "South",
+        "satisfaction": 4.3
+    },
+    {
+        "id": "7",
+        "date": "2023-02-15",
+        "category": "Home",
+        "product": "Smart LED Bulbs",
+        "value": 35,
+        "units": 150,
+        "region": "East",
+        "satisfaction": 4.1
+    },
+    {
+        "id": "8",
+        "date": "2023-02-22",
+        "category": "Electronics",
+        "product": "Tablet Ultra",
+        "value": 549,
+        "units": 30,
+        "region": "West",
+        "satisfaction": 4.6
+    },
+    {
+        "id": "9",
+        "date": "2023-03-01",
+        "category": "Books",
+        "product": "React Patterns",
+        "value": 52,
+        "units": 95,
+        "region": "North",
+        "satisfaction": 4.9
+    },
+    {
+        "id": "10",
+        "date": "2023-03-08",
+        "category": "Clothing",
+        "product": "Running Shoes",
+        "value": 120,
+        "units": 60,
+        "region": "South",
+        "satisfaction": 4.4
+    },
+    {
+        "id": "11",
+        "date": "2023-03-15",
+        "category": "Food",
+        "product": "Protein Bars Pack",
+        "value": 32,
+        "units": 180,
+        "region": "East",
+        "satisfaction": 3.8
+    },
+    {
+        "id": "12",
+        "date": "2023-03-22",
+        "category": "Sports",
+        "product": "Basketball Pro",
+        "value": 45,
+        "units": 40,
+        "region": "West",
+        "satisfaction": 4.5
+    },
+    {
+        "id": "13",
+        "date": "2023-03-28",
+        "category": "Home",
+        "product": "Robot Vacuum",
+        "value": 299,
+        "units": 22,
+        "region": "North",
+        "satisfaction": 4.3
+    },
+    {
+        "id": "14",
+        "date": "2023-04-05",
+        "category": "Electronics",
+        "product": "Gaming Mouse",
+        "value": 79,
+        "units": 110,
+        "region": "South",
+        "satisfaction": 4.7
+    },
+    {
+        "id": "15",
+        "date": "2023-04-12",
+        "category": "Books",
+        "product": "Data Science 101",
+        "value": 48,
+        "units": 85,
+        "region": "East",
+        "satisfaction": 4.6
+    },
+    {
+        "id": "16",
+        "date": "2023-04-18",
+        "category": "Clothing",
+        "product": "Denim Jacket",
+        "value": 95,
+        "units": 35,
+        "region": "West",
+        "satisfaction": 4.1
+    },
+    {
+        "id": "17",
+        "date": "2023-04-25",
+        "category": "Food",
+        "product": "Matcha Green Tea",
+        "value": 22,
+        "units": 250,
+        "region": "North",
+        "satisfaction": 4.4
+    },
+    {
+        "id": "18",
+        "date": "2023-05-02",
+        "category": "Sports",
+        "product": "Tennis Racket",
+        "value": 180,
+        "units": 18,
+        "region": "South",
+        "satisfaction": 4.2
+    },
+    {
+        "id": "19",
+        "date": "2023-05-08",
+        "category": "Home",
+        "product": "Air Purifier",
+        "value": 220,
+        "units": 28,
+        "region": "East",
+        "satisfaction": 4.5
+    },
+    {
+        "id": "20",
+        "date": "2023-05-15",
+        "category": "Electronics",
+        "product": "Smart Watch V2",
+        "value": 349,
+        "units": 45,
+        "region": "West",
+        "satisfaction": 4.8
+    },
+    {
+        "id": "21",
+        "date": "2023-05-22",
+        "category": "Books",
+        "product": "Python Cookbook",
+        "value": 55,
+        "units": 75,
+        "region": "North",
+        "satisfaction": 4.7
+    },
+    {
+        "id": "22",
+        "date": "2023-05-28",
+        "category": "Clothing",
+        "product": "Silk Scarf",
+        "value": 68,
+        "units": 48,
+        "region": "South",
+        "satisfaction": 4.0
+    },
+    {
+        "id": "23",
+        "date": "2023-06-05",
+        "category": "Food",
+        "product": "Artisan Chocolate",
+        "value": 18,
+        "units": 300,
+        "region": "East",
+        "satisfaction": 4.9
+    },
+    {
+        "id": "24",
+        "date": "2023-06-12",
+        "category": "Sports",
+        "product": "Dumbbells Set",
+        "value": 120,
+        "units": 32,
+        "region": "West",
+        "satisfaction": 4.6
+    },
+    {
+        "id": "25",
+        "date": "2023-06-18",
+        "category": "Home",
+        "product": "Memory Foam Pillow",
+        "value": 45,
+        "units": 90,
+        "region": "North",
+        "satisfaction": 4.3
+    },
+    {
+        "id": "26",
+        "date": "2023-06-25",
+        "category": "Electronics",
+        "product": "Bluetooth Speaker",
+        "value": 129,
+        "units": 65,
+        "region": "South",
+        "satisfaction": 4.4
+    },
+    {
+        "id": "27",
+        "date": "2023-07-02",
+        "category": "Books",
+        "product": "UX Design Manual",
+        "value": 42,
+        "units": 110,
+        "region": "East",
+        "satisfaction": 4.5
+    },
+    {
+        "id": "28",
+        "date": "2023-07-08",
+        "category": "Clothing",
+        "product": "Linen Shirt",
+        "value": 85,
+        "units": 55,
+        "region": "West",
+        "satisfaction": 4.2
+    },
+    {
+        "id": "29",
+        "date": "2023-07-15",
+        "category": "Food",
+        "product": "Organic Honey",
+        "value": 15,
+        "units": 220,
+        "region": "North",
+        "satisfaction": 4.8
+    },
+    {
+        "id": "30",
+        "date": "2023-07-22",
+        "category": "Sports",
+        "product": "Cycling Helmet",
+        "value": 95,
+        "units": 38,
+        "region": "South",
+        "satisfaction": 4.1
+    },
+    {
+        "id": "31",
+        "date": "2023-07-28",
+        "category": "Home",
+        "product": "Plant Grow Light",
+        "value": 55,
+        "units": 70,
+        "region": "East",
+        "satisfaction": 4.0
+    },
+    {
+        "id": "32",
+        "date": "2023-08-05",
+        "category": "Electronics",
+        "product": "USB-C Hub",
+        "value": 65,
+        "units": 130,
+        "region": "West",
+        "satisfaction": 4.3
+    },
+    {
+        "id": "33",
+        "date": "2023-08-12",
+        "category": "Books",
+        "product": "Cloud Architecture",
+        "value": 58,
+        "units": 65,
+        "region": "North",
+        "satisfaction": 4.6
+    },
+    {
+        "id": "34",
+        "date": "2023-08-18",
+        "category": "Clothing",
+        "product": "Sneakers Classic",
+        "value": 110,
+        "units": 72,
+        "region": "South",
+        "satisfaction": 4.5
+    },
+    {
+        "id": "35",
+        "date": "2023-08-25",
+        "category": "Food",
+        "product": "Trail Mix Premium",
+        "value": 12,
+        "units": 350,
+        "region": "East",
+        "satisfaction": 4.2
+    },
+    {
+        "id": "36",
+        "date": "2023-09-01",
+        "category": "Sports",
+        "product": "Resistance Bands",
+        "value": 25,
+        "units": 160,
+        "region": "West",
+        "satisfaction": 4.4
+    },
+    {
+        "id": "37",
+        "date": "2023-09-08",
+        "category": "Home",
+        "product": "Aromatherapy Diffuser",
+        "value": 42,
+        "units": 85,
+        "region": "North",
+        "satisfaction": 4.7
+    },
+    {
+        "id": "38",
+        "date": "2023-09-15",
+        "category": "Electronics",
+        "product": "Webcam 4K",
+        "value": 149,
+        "units": 48,
+        "region": "South",
+        "satisfaction": 4.1
+    },
+    {
+        "id": "39",
+        "date": "2023-09-22",
+        "category": "Books",
+        "product": "AI Ethics Guide",
+        "value": 38,
+        "units": 90,
+        "region": "East",
+        "satisfaction": 4.8
+    },
+    {
+        "id": "40",
+        "date": "2023-09-28",
+        "category": "Clothing",
+        "product": "Wool Sweater",
+        "value": 130,
+        "units": 28,
+        "region": "West",
+        "satisfaction": 4.3
+    },
+    {
+        "id": "41",
+        "date": "2023-10-05",
+        "category": "Food",
+        "product": "Olive Oil Extra Virgin",
+        "value": 25,
+        "units": 190,
+        "region": "North",
+        "satisfaction": 4.6
+    },
+    {
+        "id": "42",
+        "date": "2023-10-12",
+        "category": "Sports",
+        "product": "Jump Rope Pro",
+        "value": 18,
+        "units": 200,
+        "region": "South",
+        "satisfaction": 4.5
+    },
+    {
+        "id": "43",
+        "date": "2023-10-18",
+        "category": "Home",
+        "product": "Desk Organizer",
+        "value": 35,
+        "units": 115,
+        "region": "East",
+        "satisfaction": 4.0
+    },
+    {
+        "id": "44",
+        "date": "2023-10-25",
+        "category": "Electronics",
+        "product": "Portable SSD 1TB",
+        "value": 109,
+        "units": 55,
+        "region": "West",
+        "satisfaction": 4.9
+    },
+    {
+        "id": "45",
+        "date": "2023-11-01",
+        "category": "Books",
+        "product": "CSS Mastery",
+        "value": 42,
+        "units": 80,
+        "region": "North",
+        "satisfaction": 4.4
+    },
+    {
+        "id": "46",
+        "date": "2023-11-08",
+        "category": "Clothing",
+        "product": "Waterproof Boots",
+        "value": 175,
+        "units": 22,
+        "region": "South",
+        "satisfaction": 4.7
+    },
+    {
+        "id": "47",
+        "date": "2023-11-15",
+        "category": "Food",
+        "product": "Specialty Coffee",
+        "value": 35,
+        "units": 170,
+        "region": "East",
+        "satisfaction": 4.3
+    },
+    {
+        "id": "48",
+        "date": "2023-11-22",
+        "category": "Sports",
+        "product": "Yoga Block Set",
+        "value": 22,
+        "units": 140,
+        "region": "West",
+        "satisfaction": 4.1
+    },
+    {
+        "id": "49",
+        "date": "2023-11-28",
+        "category": "Home",
+        "product": "Smart Thermostat",
+        "value": 199,
+        "units": 35,
+        "region": "North",
+        "satisfaction": 4.8
+    },
+    {
+        "id": "50",
+        "date": "2023-12-05",
+        "category": "Electronics",
+        "product": "Mechanical Keyboard",
+        "value": 159,
+        "units": 70,
+        "region": "South",
+        "satisfaction": 4.6
+    },
+    {
+        "id": "51",
+        "date": "2023-12-12",
+        "category": "Books",
+        "product": "DevOps Handbook",
+        "value": 48,
+        "units": 60,
+        "region": "East",
+        "satisfaction": 4.5
+    },
+    {
+        "id": "52",
+        "date": "2023-12-18",
+        "category": "Clothing",
+        "product": "Cashmere Scarf",
+        "value": 95,
+        "units": 40,
+        "region": "West",
+        "satisfaction": 4.2
+    },
+    {
+        "id": "53",
+        "date": "2023-12-25",
+        "category": "Food",
+        "product": "Gift Basket Gourmet",
+        "value": 65,
+        "units": 85,
+        "region": "North",
+        "satisfaction": 4.9
+    },
+    {
+        "id": "54",
+        "date": "2023-01-08",
+        "category": "Sports",
+        "product": "Swim Goggles",
+        "value": 28,
+        "units": 95,
+        "region": "South",
+        "satisfaction": 4.0
+    },
+    {
+        "id": "55",
+        "date": "2023-02-14",
+        "category": "Home",
+        "product": "Scented Candles Set",
+        "value": 38,
+        "units": 180,
+        "region": "East",
+        "satisfaction": 4.4
+    },
+    {
+        "id": "56",
+        "date": "2023-03-20",
+        "category": "Electronics",
+        "product": "Monitor 27 4K",
+        "value": 449,
+        "units": 20,
+        "region": "West",
+        "satisfaction": 4.7
+    },
+    {
+        "id": "57",
+        "date": "2023-04-28",
+        "category": "Books",
+        "product": "TypeScript Deep Dive",
+        "value": 50,
+        "units": 70,
+        "region": "North",
+        "satisfaction": 4.8
+    },
+    {
+        "id": "58",
+        "date": "2023-05-10",
+        "category": "Clothing",
+        "product": "Athletic Shorts",
+        "value": 45,
+        "units": 90,
+        "region": "South",
+        "satisfaction": 4.1
+    },
+    {
+        "id": "59",
+        "date": "2023-06-22",
+        "category": "Food",
+        "product": "Dried Fruit Mix",
+        "value": 16,
+        "units": 280,
+        "region": "East",
+        "satisfaction": 4.3
+    },
+    {
+        "id": "60",
+        "date": "2023-07-18",
+        "category": "Sports",
+        "product": "Boxing Gloves",
+        "value": 75,
+        "units": 25,
+        "region": "West",
+        "satisfaction": 4.5
+    },
+    {
+        "id": "61",
+        "date": "2023-08-08",
+        "category": "Home",
+        "product": "Bamboo Utensils",
+        "value": 22,
+        "units": 200,
+        "region": "North",
+        "satisfaction": 4.2
+    },
+    {
+        "id": "62",
+        "date": "2023-09-12",
+        "category": "Electronics",
+        "product": "Noise Cancelling HP",
+        "value": 279,
+        "units": 38,
+        "region": "South",
+        "satisfaction": 4.8
+    },
+    {
+        "id": "63",
+        "date": "2023-10-20",
+        "category": "Books",
+        "product": "Fullstack Testing",
+        "value": 44,
+        "units": 55,
+        "region": "East",
+        "satisfaction": 4.6
+    },
+    {
+        "id": "64",
+        "date": "2023-11-05",
+        "category": "Clothing",
+        "product": "Puffer Vest",
+        "value": 110,
+        "units": 32,
+        "region": "West",
+        "satisfaction": 4.4
+    },
+    {
+        "id": "65",
+        "date": "2023-12-15",
+        "category": "Food",
+        "product": "Almond Butter",
+        "value": 14,
+        "units": 240,
+        "region": "North",
+        "satisfaction": 4.5
+    },
+    {
+        "id": "66",
+        "date": "2023-01-20",
+        "category": "Sports",
+        "product": "Foam Roller",
+        "value": 32,
+        "units": 110,
+        "region": "South",
+        "satisfaction": 4.3
+    },
+    {
+        "id": "67",
+        "date": "2023-02-28",
+        "category": "Home",
+        "product": "Kitchen Scale Digital",
+        "value": 28,
+        "units": 130,
+        "region": "East",
+        "satisfaction": 4.1
+    },
+    {
+        "id": "68",
+        "date": "2023-04-02",
+        "category": "Electronics",
+        "product": "Wireless Charger",
+        "value": 39,
+        "units": 170,
+        "region": "West",
+        "satisfaction": 4.0
+    },
+    {
+        "id": "69",
+        "date": "2023-05-18",
+        "category": "Books",
+        "product": "Docker in Action",
+        "value": 55,
+        "units": 48,
+        "region": "North",
+        "satisfaction": 4.7
+    },
+    {
+        "id": "70",
+        "date": "2023-06-28",
+        "category": "Clothing",
+        "product": "Canvas Tote Bag",
+        "value": 28,
+        "units": 150,
+        "region": "South",
+        "satisfaction": 3.9
+    },
+    {
+        "id": "71",
+        "date": "2023-08-15",
+        "category": "Food",
+        "product": "Quinoa Organic",
+        "value": 10,
+        "units": 320,
+        "region": "East",
+        "satisfaction": 4.2
+    },
+    {
+        "id": "72",
+        "date": "2023-09-25",
+        "category": "Sports",
+        "product": "Running Watch",
+        "value": 199,
+        "units": 15,
+        "region": "West",
+        "satisfaction": 4.6
+    },
+    {
+        "id": "73",
+        "date": "2023-10-30",
+        "category": "Home",
+        "product": "LED Strip Lights",
+        "value": 18,
+        "units": 250,
+        "region": "North",
+        "satisfaction": 4.4
+    },
+    {
+        "id": "74",
+        "date": "2023-11-20",
+        "category": "Electronics",
+        "product": "Power Bank 20K",
+        "value": 45,
+        "units": 140,
+        "region": "South",
+        "satisfaction": 4.3
+    },
+    {
+        "id": "75",
+        "date": "2023-12-28",
+        "category": "Books",
+        "product": "GraphQL Guide",
+        "value": 40,
+        "units": 65,
+        "region": "East",
+        "satisfaction": 4.5
+    },
+    {
+        "id": "76",
+        "date": "2023-01-30",
+        "category": "Clothing",
+        "product": "Fleece Hoodie",
+        "value": 75,
+        "units": 80,
+        "region": "West",
+        "satisfaction": 4.6
+    },
+    {
+        "id": "77",
+        "date": "2023-03-12",
+        "category": "Food",
+        "product": "Coconut Water Pack",
+        "value": 20,
+        "units": 210,
+        "region": "North",
+        "satisfaction": 4.1
+    },
+    {
+        "id": "78",
+        "date": "2023-04-22",
+        "category": "Sports",
+        "product": "Climbing Chalk",
+        "value": 12,
+        "units": 180,
+        "region": "South",
+        "satisfaction": 4.0
+    },
+    {
+        "id": "79",
+        "date": "2023-06-08",
+        "category": "Home",
+        "product": "Shower Speaker BT",
+        "value": 32,
+        "units": 95,
+        "region": "East",
+        "satisfaction": 4.2
+    },
+    {
+        "id": "80",
+        "date": "2023-07-25",
+        "category": "Electronics",
+        "product": "Flash Drive 256GB",
+        "value": 25,
+        "units": 300,
+        "region": "West",
+        "satisfaction": 4.1
+    },
+    {
+        "id": "81",
+        "date": "2023-08-28",
+        "category": "Books",
+        "product": "Go Programming",
+        "value": 46,
+        "units": 52,
+        "region": "North",
+        "satisfaction": 4.4
+    },
+    {
+        "id": "82",
+        "date": "2023-10-08",
+        "category": "Clothing",
+        "product": "Cargo Pants",
+        "value": 65,
+        "units": 58,
+        "region": "South",
+        "satisfaction": 4.3
+    },
+    {
+        "id": "83",
+        "date": "2023-11-12",
+        "category": "Food",
+        "product": "Acai Berry Powder",
+        "value": 30,
+        "units": 140,
+        "region": "East",
+        "satisfaction": 4.7
+    },
+    {
+        "id": "84",
+        "date": "2023-12-08",
+        "category": "Sports",
+        "product": "Ab Roller Wheel",
+        "value": 28,
+        "units": 120,
+        "region": "West",
+        "satisfaction": 4.2
+    },
+    {
+        "id": "85",
+        "date": "2023-01-15",
+        "category": "Home",
+        "product": "French Press Coffee",
+        "value": 35,
+        "units": 110,
+        "region": "North",
+        "satisfaction": 4.5
+    },
+    {
+        "id": "86",
+        "date": "2023-02-18",
+        "category": "Electronics",
+        "product": "Lightning Cable",
+        "value": 15,
+        "units": 400,
+        "region": "South",
+        "satisfaction": 3.8
+    },
+    {
+        "id": "87",
+        "date": "2023-03-25",
+        "category": "Books",
+        "product": "SQL Performance",
+        "value": 52,
+        "units": 45,
+        "region": "East",
+        "satisfaction": 4.6
+    },
+    {
+        "id": "88",
+        "date": "2023-05-05",
+        "category": "Clothing",
+        "product": "Baseball Cap",
+        "value": 25,
+        "units": 200,
+        "region": "West",
+        "satisfaction": 4.0
+    },
+    {
+        "id": "89",
+        "date": "2023-06-15",
+        "category": "Food",
+        "product": "Granola Bars",
+        "value": 8,
+        "units": 500,
+        "region": "North",
+        "satisfaction": 4.3
+    },
+    {
+        "id": "90",
+        "date": "2023-07-28",
+        "category": "Sports",
+        "product": "Soccer Ball",
+        "value": 35,
+        "units": 75,
+        "region": "South",
+        "satisfaction": 4.4
+    },
+    {
+        "id": "91",
+        "date": "2023-09-05",
+        "category": "Home",
+        "product": "Cork Coasters Set",
+        "value": 12,
+        "units": 230,
+        "region": "East",
+        "satisfaction": 4.1
+    },
+    {
+        "id": "92",
+        "date": "2023-10-15",
+        "category": "Electronics",
+        "product": "Laptop Stand",
+        "value": 55,
+        "units": 85,
+        "region": "West",
+        "satisfaction": 4.5
+    },
+    {
+        "id": "93",
+        "date": "2023-11-25",
+        "category": "Books",
+        "product": "Rust Programming",
+        "value": 48,
+        "units": 40,
+        "region": "North",
+        "satisfaction": 4.8
+    },
+    {
+        "id": "94",
+        "date": "2023-12-20",
+        "category": "Clothing",
+        "product": "Thermal Socks Pack",
+        "value": 18,
+        "units": 350,
+        "region": "South",
+        "satisfaction": 4.2
+    },
+    {
+        "id": "95",
+        "date": "2023-02-10",
+        "category": "Food",
+        "product": "Chia Seeds Pouch",
+        "value": 12,
+        "units": 260,
+        "region": "East",
+        "satisfaction": 4.4
+    },
+    {
+        "id": "96",
+        "date": "2023-04-15",
+        "category": "Sports",
+        "product": "Kettlebell 16kg",
+        "value": 48,
+        "units": 42,
+        "region": "West",
+        "satisfaction": 4.6
+    },
+    {
+        "id": "97",
+        "date": "2023-06-02",
+        "category": "Home",
+        "product": "Beeswax Wraps",
+        "value": 15,
+        "units": 180,
+        "region": "North",
+        "satisfaction": 4.3
+    },
+    {
+        "id": "98",
+        "date": "2023-08-20",
+        "category": "Electronics",
+        "product": "HDMI Adapter",
+        "value": 22,
+        "units": 220,
+        "region": "South",
+        "satisfaction": 4.0
+    },
+    {
+        "id": "99",
+        "date": "2023-10-28",
+        "category": "Books",
+        "product": "Web Security",
+        "value": 55,
+        "units": 38,
+        "region": "East",
+        "satisfaction": 4.7
+    },
+    {
+        "id": "100",
+        "date": "2023-12-02",
+        "category": "Clothing",
+        "product": "Leather Belt",
+        "value": 42,
+        "units": 95,
+        "region": "West",
+        "satisfaction": 4.1
+    },
+    {
+        "id": "101",
+        "date": "2023-01-22",
+        "category": "Electronics",
+        "product": "Webcam HD",
+        "value": 79,
+        "units": 62,
+        "region": "North",
+        "satisfaction": 4.3
+    },
+    {
+        "id": "102",
+        "date": "2023-03-05",
+        "category": "Food",
+        "product": "Herbal Tea Set",
+        "value": 24,
+        "units": 165,
+        "region": "South",
+        "satisfaction": 4.5
+    },
+    {
+        "id": "103",
+        "date": "2023-05-25",
+        "category": "Sports",
+        "product": "Hiking Backpack",
+        "value": 89,
+        "units": 28,
+        "region": "East",
+        "satisfaction": 4.7
+    },
+    {
+        "id": "104",
+        "date": "2023-07-12",
+        "category": "Home",
+        "product": "Smart Plug Set",
+        "value": 28,
+        "units": 175,
+        "region": "West",
+        "satisfaction": 4.2
+    },
+    {
+        "id": "105",
+        "date": "2023-09-18",
+        "category": "Books",
+        "product": "Kubernetes Guide",
+        "value": 58,
+        "units": 35,
+        "region": "North",
+        "satisfaction": 4.9
+    },
+    {
+        "id": "106",
+        "date": "2023-11-02",
+        "category": "Clothing",
+        "product": "Rain Jacket",
+        "value": 135,
+        "units": 25,
+        "region": "South",
+        "satisfaction": 4.4
+    },
+    {
+        "id": "107",
+        "date": "2023-04-08",
+        "category": "Electronics",
+        "product": "Cable Organizer",
+        "value": 18,
+        "units": 280,
+        "region": "East",
+        "satisfaction": 3.9
+    },
+    {
+        "id": "108",
+        "date": "2023-06-30",
+        "category": "Food",
+        "product": "Cold Brew Concentrate",
+        "value": 20,
+        "units": 190,
+        "region": "West",
+        "satisfaction": 4.6
+    },
+    {
+        "id": "109",
+        "date": "2023-08-10",
+        "category": "Sports",
+        "product": "Skipping Rope",
+        "value": 15,
+        "units": 210,
+        "region": "North",
+        "satisfaction": 4.1
+    },
+    {
+        "id": "110",
+        "date": "2023-11-18",
+        "category": "Home",
+        "product": "Indoor Herb Garden",
+        "value": 45,
+        "units": 68,
+        "region": "South",
+        "satisfaction": 4.8
+    },
+    {
+        "id": "111",
+        "date": "2023-02-05",
+        "category": "Electronics",
+        "product": "Mouse Pad XL",
+        "value": 28,
+        "units": 195,
+        "region": "East",
+        "satisfaction": 4.2
+    },
+    {
+        "id": "112",
+        "date": "2023-07-05",
+        "category": "Books",
+        "product": "ML Engineering",
+        "value": 62,
+        "units": 42,
+        "region": "West",
+        "satisfaction": 4.7
+    },
+    {
+        "id": "113",
+        "date": "2023-09-30",
+        "category": "Clothing",
+        "product": "Polo Shirt",
+        "value": 55,
+        "units": 78,
+        "region": "North",
+        "satisfaction": 4.0
+    },
+    {
+        "id": "114",
+        "date": "2023-12-10",
+        "category": "Food",
+        "product": "Sparkling Water Case",
+        "value": 18,
+        "units": 280,
+        "region": "South",
+        "satisfaction": 3.7
+    },
+    {
+        "id": "115",
+        "date": "2023-03-18",
+        "category": "Sports",
+        "product": "Racquetball Set",
+        "value": 42,
+        "units": 35,
+        "region": "East",
+        "satisfaction": 4.3
+    },
+    {
+        "id": "116",
+        "date": "2023-05-30",
+        "category": "Home",
+        "product": "Bookend Set",
+        "value": 25,
+        "units": 120,
+        "region": "West",
+        "satisfaction": 4.0
+    },
+    {
+        "id": "117",
+        "date": "2023-08-02",
+        "category": "Electronics",
+        "product": "Screen Protector",
+        "value": 12,
+        "units": 450,
+        "region": "North",
+        "satisfaction": 3.6
+    },
+    {
+        "id": "118",
+        "date": "2023-10-22",
+        "category": "Books",
+        "product": "System Design",
+        "value": 60,
+        "units": 50,
+        "region": "South",
+        "satisfaction": 4.8
+    },
+    {
+        "id": "119",
+        "date": "2023-12-30",
+        "category": "Clothing",
+        "product": "Beanie Hat",
+        "value": 20,
+        "units": 220,
+        "region": "East",
+        "satisfaction": 4.2
+    },
+    {
+        "id": "120",
+        "date": "2023-04-30",
+        "category": "Food",
+        "product": "Smoothie Mix",
+        "value": 15,
+        "units": 310,
+        "region": "West",
+        "satisfaction": 4.4
+    }
+]
